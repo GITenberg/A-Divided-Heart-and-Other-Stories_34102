@@ -22,6 +22,8 @@ creator:
     - http://de.wikipedia.org/wiki/Paul_Heyse
     - http://en.wikipedia.org/wiki/Paul_Heyse
 description: A divided heart.--Minka.--Rothenburg on the Tauber.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34102#A-Divided-Heart-and-Other-Stories
 gutenberg_issued: '2010-10-19'
 gutenberg_type: Text
 identifiers:
